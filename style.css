@@ -47,7 +47,6 @@ a {
 .header {
     background: linear-gradient(180deg, #4B2C24 0%, #2B1712 100%);
     padding-bottom: 5rem;
-    height: 100vh;
 }
 
 .header__container {
